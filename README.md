@@ -15,7 +15,6 @@ The view just displays what the controller says.
 
 ![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/img1.png)
 ![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/img2.png)
-![alt text](https://raw.githubusercontent.com/Andrei0795/iosdesignpatternsOBJC/master/img3.png)
 
 
 # Delegation
